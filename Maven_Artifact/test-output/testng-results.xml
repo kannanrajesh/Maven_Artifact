@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="656" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="656" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+      <class name="com.testng.features.Ignore_Demo">
+        <test-method status="PASS" signature="amazonprime()[pri:0, instance:com.testng.features.Ignore_Demo@15eb5ee5]" name="amazonprime" duration-ms="31" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonprime -->
+        <test-method status="PASS" signature="gmail()[pri:0, instance:com.testng.features.Ignore_Demo@15eb5ee5]" name="gmail" duration-ms="15" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail -->
+        <test-method status="PASS" signature="google()[pri:0, instance:com.testng.features.Ignore_Demo@15eb5ee5]" name="google" duration-ms="16" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="twitter()[pri:0, instance:com.testng.features.Ignore_Demo@15eb5ee5]" name="twitter" duration-ms="0" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+        <test-method status="PASS" signature="whatsapp()[pri:0, instance:com.testng.features.Ignore_Demo@15eb5ee5]" name="whatsapp" duration-ms="0" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsapp -->
+        <test-method status="PASS" signature="youtube()[pri:0, instance:com.testng.features.Ignore_Demo@15eb5ee5]" name="youtube" duration-ms="0" started-at="2022-10-01T08:26:02 IST" finished-at="2022-10-01T08:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtube -->
+      </class> <!-- com.testng.features.Ignore_Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
